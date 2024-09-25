@@ -1,0 +1,9 @@
+export const ADD_USER = 'ADD_USER';
+export const ADD_ORG = 'ADD_ORG';
+export const UPDATE_ORG = 'UPDATE_ORG';
+export const ADD_EMPLIST = 'ADD_EMPLIST';
+export const ADD_CATLIST = 'ADD_CATLIST';
+export const UPDATE_CAT = 'UPDATE_CAT';
+export const ADD_CAT = 'ADD_CAT';
+export const ADD_PRD ='ADD_PRD'
+export const UPDATE_PRODUCT='UPDATE_PRODUCT';
